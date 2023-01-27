@@ -1,0 +1,25 @@
+#home{
+    text-align: center;
+  }
+  
+  #home .container h1{
+    margin:36px;
+  }
+  
+  #home .container .row{
+    margin: 3px;
+  }
+  
+  #home .isi .container.atas{
+    background-color:#f9f8f8;
+    padding-bottom:37px;
+  }
+
+.image {
+    display: block;
+    width: 100%;
+}
+
+.clearfix {
+    display: block;
+}
